@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+.KayanBolgeTabloBaslik {
+	font-family: "Trebuchet MS";
+	font-size: 16px;
+	color: #0099FF;
+	font-weight: bold;
+}
+.Basliklar {
+	font-family: "Trebuchet MS";
+	color: #339966;
+	font-weight: bold;
+	font-size: 14px;
+}
+body {
+	background-image:url(../resimler/arkaplan.jpg);
+	background-repeat: repeat;
+	font-family: "Trebuchet MS";
+	font-size: 16px;
+	color: #003;
+}
+
+a:link {
+	color: #06F;
+	text-decoration: none;
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+}
+a:visited {
+	text-decoration: none;
+	color: #06F;
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+}
+a:hover {
+	text-decoration: none;
+	color: #CC3300;
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+}
+img {
+	border: 5px inset #69C;
+}
+
+.baslik {
+	font-family: "Trebuchet MS";
+	font-size: 16px;
+	color: #0099FF;
+	font-weight: bold;
+}
+.resimyazisi {
+	font-family: "Trebuchet MS";
+	color: #F03;
+	font-weight: bold;
+	font-size: 14px;
+}
+.hucrerenk {
+	background-color: #9CC;
+}

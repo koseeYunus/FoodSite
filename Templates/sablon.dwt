@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>HERKES SOFRAYA YEMEK TARİFLERİ SİTESİ</title>
+<!-- TemplateEndEditable -->
+
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+<link href="../stiller/stiller.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<hr />
+<table width="800" height="500" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="90" colspan="2" align="right" valign="bottom" background="../resimler/logo2.gif"><table width="800" border="0" align="right" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="200" align="left"><form name="form1" id="form1">
+          <select name="menu1" onchange="MM_jumpMenu('parent',this,0)">
+            <option value="#">Se&ccedil;iniz</option>
+            <option value="index.html">Ana Sayfa</option>
+            <option value="urunler.html">&Uuml;r&uuml;nler</option>
+            <option value="puf_noktalar.html">P&uuml;f Noktalar</option>
+            <option value="iletisim.html">İletişim</option>
+          </select>
+        </form>
+        </td>
+        <td width="80" align="center">&nbsp;</td>
+        <td width="130" align="center"><span class="style6"><a href="../index.html">ANA SAYFA</a></span></td>
+        <td width="130" align="center"><span class="style6"><a href="../urunler.html">&Uuml;R&Uuml;NLER</a></span></td>
+        <td width="130" align="center" class="style6"><a href="../puf_noktalar.html">PÜF NOKTALAR</a></td>
+        <td width="130" align="center" class="style6"><a href="../iletisim.html">İLETİŞİM</a></td>
+      </tr>
+    </table>    </td>
+  </tr>
+  <tr>
+    <td height="10" colspan="2" align="center" valign="bottom"><hr /></td>
+  </tr>
+  <tr>
+    <td width="200" height="375" valign="top"><marquee onMouseOver="this.stop()" style="width: 140; height: 210px; verticalalign: text-top" onMouseOut="this.start();" truespeed="truespeed" scrollAmount="2" direction="up">
+<table width="100%" height="270" border="0">
+        <tr>
+          <td height="15" colspan="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="15" colspan="2"><span class="baslik">SİZİN İÇİN SEÇTİKLERİMİZ</span></td>
+        </tr>
+        <tr>
+          <td height="60" valign="top"><p><img src="../resimler/kayanbolge/firindapatates.jpg" width="80" height="56" /></p>            </td>
+          <td height="60" valign="top" class="Basliklar">F&#305;r&#305;nda elma dilim patates </td>
+        </tr>
+        <tr>
+          <td height="60" valign="top"><img src="../resimler/kayanbolge/kofte.jpg" width="80" height="56" /></div></td>
+          <td height="60" valign="top" class="Basliklar">Soslu, Baharatl&#305; K&ouml;fte</td>
+        </tr>
+        <tr>
+          <td height="60" valign="top"><img src="../resimler/kayanbolge/pogaca.jpg" width="80" height="56" /></td>
+          <td height="60" valign="top" class="Basliklar">Kolay Po&#287;a&ccedil;a</td>
+        </tr>
+        <tr>
+          <td height="60" valign="top"><img src="../resimler/kayanbolge/unhelvasi.jpg" width="80" height="56" /></td>
+          <td height="60" valign="top" class="Basliklar">Dondurmal&#305; Un Helvas&#305;</td>
+        </tr>
+      </table>   
+    </marquee><br />
+    <table width="100%" height="110" border="0">
+      
+      <tr>
+        <td height="5" valign="bottom">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="100" valign="bottom">&nbsp;</td>
+      </tr>
+    </table></td>
+    <td width="600" height="375" align="center" valign="top"><div style="width: 100%; height: 22px; overflow: hidden;"></div>
+    <!-- TemplateBeginEditable name="icerik" -->icerik<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+
+<hr align="center" width="800" />
+<hr />
+</body>
+</html>
