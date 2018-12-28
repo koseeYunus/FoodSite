@@ -1,2 +1,2 @@
 # FoodSite
-A simple website where you can look at a variety of dishes.
+Yemek çeşitlerine gösterebileceğiniz HTML ve CSS ile yapılmış web sitesidir.
