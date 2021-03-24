@@ -1,2 +1,2 @@
 # FoodSite
-Yemek çeşitlerine gösterebileceğiniz HTML ve CSS ile yapılmış web sitesidir.
+HTML ve CSS kullanılarak geliştirilmiş yemek çeşitlerini gösterebileceğimiz web sitesidir.
